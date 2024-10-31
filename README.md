@@ -1,7 +1,5 @@
-<h1 align="center">Hello, 👋  I'm Venkata Ramana Derangula 🎉</h1>
+<h1 align="center">Hello, 👋  I'm Venkata Ramana Derangula </h1>
 
-
-<p align="center">Hello Venkata!</p>
 <p align="center">Aspiring Full Stack Developer | Eager to Learn and Build</p>
 
 <p align="center">
