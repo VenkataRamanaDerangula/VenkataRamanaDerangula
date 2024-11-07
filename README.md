@@ -87,8 +87,8 @@ Here are a few projects I've worked on:
 - **Project 2**: [MovieGate](https://66d56ac1eab8d3bc631a18c5--famous-semifreddo-ecf23a.netlify.app/)  
   A movie booking platform that streamlines ticket reservation with movie listings, real-time seat selection, and secure booking functionality. Developed with HTML, CSS, and JavaScript for a smooth user experience and responsive design across devices.
 
-- **Project 3**: [Project Title](#)  
-  Brief description of the project.
+- **Project 3**: [TaskFlow](https://taskflow-manager.netlify.app/)  
+ TaskFlow is a straightforward tool for organizing and tracking tasks in real-time. Built with HTML, CSS, and JavaScript, it provides an easy, visual approach to project management. TaskFlow is fully responsive, user-friendly, and operates entirely on the front end—no backend setup needed.
 
 ---
 
