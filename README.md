@@ -98,9 +98,8 @@ Here are a few projects I've worked on:
 ## Hobbies
 
 - **Listening to Music**  
-  I enjoy listening to different types of music. It makes me feel good and helps me relax.
+Listening to different types of music brings enjoyment, creates a positive feeling, and provides relaxation.
 
 - **Watching Movies**  
-  I love watching movies, especially thrillers and documentaries. I enjoy the excitement of thrillers and the interesting information that documentaries provide.
-
+Watching movies, especially thrillers and documentaries, is a favorite pastime. The excitement of thrillers and the fascinating information in documentaries provide great enjoyment.
 ---
