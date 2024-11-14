@@ -3,7 +3,7 @@
 <p align="center">Aspiring Full Stack Developer | Eager to Learn and Build</p>
 
 <p align="center">
-    I am Venkata Ramana, a certified Full Stack Web Developer trained at Masai. I have skills in HTML, CSS, JavaScript, React, Node.js, MySQL, and MongoDB. I focus on creating user-friendly web applications and enjoy solving problems. I hold a B.Tech in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University, Anantapur (JNTUA). I’m eager to work on exciting projects and collaborate with others.
+   A certified Full Stack Web Developer trained at Masai, with expertise in HTML, CSS, JavaScript, React, Node.js, MySQL, and MongoDB. Skilled in creating user-friendly web applications and passionate about solving problems. Holds a B.Tech in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University, Anantapur (JNTUA), and is enthusiastic about collaborating on exciting projects to build impactful solutions.
 </p>
 
 For more details, click here for the [Portfolio](https://venkataramanaderangula.netlify.app/)
@@ -47,10 +47,6 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 - **Linux**  
 
 ---
-
-## Summary
-
-I am a Full Stack Developer with skills in both front-end and back-end technologies. I create user-friendly applications using HTML, CSS, and JavaScript frameworks like React and Tailwind CSS. On the back end, I work with Node.js and databases like MongoDB and MySQL to build reliable server-side applications. I also have experience with version control using Git and deploying applications on cloud platforms like AWS. I enjoy problem-solving and continuously learning new technologies to improve my skills and deliver effective solutions.
 
 **Languages and Tools:**
 
@@ -108,5 +104,3 @@ Here are a few projects I've worked on:
   I love watching movies, especially thrillers and documentaries. I enjoy the excitement of thrillers and the interesting information that documentaries provide.
 
 ---
-
-I'm Venkata Ramana, an aspiring Full Stack Developer with a strong foundation in both front-end and back-end technologies. Skilled in HTML, CSS, JavaScript, React, Node.js, and databases like MySQL and MongoDB, I focus on building clean and user-friendly applications. My educational background includes a B.Tech in Electrical and Electronics Engineering, complemented by a Full Stack Developer certification from Masai School. I’m passionate about learning continuously, collaborating on innovative projects, and contributing to impactful web solutions.
