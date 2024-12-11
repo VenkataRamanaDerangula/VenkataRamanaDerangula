@@ -17,7 +17,7 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 <a href="https://www.linkedin.com/in/venkataramanaderangula/" target="_blank">
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/inkedin.svg" alt="LinkedIn" width="96" height="96" style="vertical-align: middle; margin-right: 10px;">
 </a>
-<a href="mailto:derangularamana22@gmail.com">
+<a href="mailto:dvramana775@gmail.com">
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/email.png" alt="Email" width="96" height="96" style="vertical-align: middle;">
 </a>
 
